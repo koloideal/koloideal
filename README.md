@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Привет, я <b>kolo</b>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python разработчик из Беларуси</h3>
 
-<!--
-**koloideal/koloideal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Опыт
 
-Here are some ideas to get you started:
+- Я начинающий разработчик на Python.
+- Активно использую telebot и aiogram для создания ботов в Telegram.
+- Также знаком с созданием скриптов-парсеров/грабберов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Статистика
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koloideal&theme=solarized_dark)
+
+## Проекты
+
+Здесь вы найдете мои проекты, связанные с Python:
+
+[Grabeer](https://github.com/koloideal/grabeer) - Telegram бот для парсинга информации об участниках определённого чата
+
+## Связь
+
+Вы можете связаться со мной через следующие каналы:
+
+- Telegram: <a href='https://t.me/kolo_id'>@kolo_id</a>
+
+<b>Не стесняйтесь обращаться, если у вас есть вопросы или предложения по сотрудничеству!</b>
+
+## Благодарность
+
+Спасибо за посещение моего профиля GitHub. Надеюсь, вы найдете здесь полезную информацию и проекты. Если у вас есть предложения или комментарии, не стесняйтесь связаться.
