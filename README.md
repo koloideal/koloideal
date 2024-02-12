@@ -19,7 +19,7 @@
 
 [Yloader](https://github.com/FlacSy/YLoaderBot) - Telegram бот для скачивания различного медиаконтента, подробнее с возможностями бота можно ознакомится в самом репозитории
 
-[SpaceGame](https://github.com/koloideal/SpaceGame) - игра написанная на Python, является аналогом игры Space Invders 1977 года
+[SpaceGame](https://github.com/koloideal/SpaceGame) - игра написанная на Python, является аналогом игры Space Invaders 1978 года
 
 ## Связь
 
