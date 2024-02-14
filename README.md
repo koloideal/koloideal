@@ -21,6 +21,8 @@
 
 [SpaceGame](https://github.com/koloideal/SpaceGame) - игра написанная на Python, является аналогом игры Space Invaders 1978 года
 
+[WordMath](https://github.com/koloideal/WordMath) - скрипт, возвращающий числовой ответ данного строкового выражения
+
 ## Связь
 
 Вы можете связаться со мной через следующие каналы:
