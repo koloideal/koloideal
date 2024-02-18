@@ -5,9 +5,17 @@
 ## Опыт
 
 - Я начинающий разработчик на Python.
-- Активно использую telebot и aiogram для создания ботов в Telegram.
+- Активно использую Telebot и Aiogram для создания ботов в Telegram.
 - Также знаком с созданием скриптов-парсеров/грабберов.
 - Создаю простые игры на pygame
+- **Стек:**
+  - Python
+  - Git / GitHub
+  - SQLite
+  - SQL
+  - PyGame
+  - Telebot / Aiogram
+  - Jinja
 
 ## Статистика
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koloideal&theme=solarized_dark)
