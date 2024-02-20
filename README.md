@@ -19,6 +19,7 @@
   - PyCharm
   - Linux
   - Telethon
+  - API
  
 
 ## Статистика
