@@ -16,6 +16,9 @@
   - PyGame
   - Telebot / Aiogram
   - Jinja
+  - PyCharm
+  - Linux
+ 
 
 ## Статистика
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koloideal&theme=solarized_dark)
