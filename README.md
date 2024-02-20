@@ -18,6 +18,7 @@
   - Jinja
   - PyCharm
   - Linux
+  - Telethon
  
 
 ## Статистика
