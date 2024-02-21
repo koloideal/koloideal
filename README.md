@@ -1,54 +1,92 @@
-<h1 align="center">Привет, я <b>kolo</b>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python разработчик из Беларуси</h3>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=100&duration=5003&pause=1010&center=true&random=false&width=1500&height=220&lines=Hi%2C+I'm+kolo;Python+developer+from+Belarus)](https://git.io/typing-svg)
+</div>
 
-## Опыт
+## Experience
 
-- Я начинающий разработчик на Python.
-- Активно использую Telebot и Aiogram для создания ботов в Telegram.
-- Также знаком с созданием скриптов-парсеров/грабберов.
-- Создаю простые игры на pygame
+- I am an aspiring Python developer.
+- I actively use Telebot and Aiogram to create bots in Telegram.
+- I am also familiar with the creation of parser/grabber scripts.
+- I create simple pygame games
   
 ## Tech Stack
 <div align="center">
 
    ![telethon](https://img.shields.io/badge/telethon-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
    ![aiogram](https://img.shields.io/badge/aiogram-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
-   ![disnake](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![Asyncio](https://img.shields.io/badge/Asyncio-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
    ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+   ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+   ![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
  
 
-## Статистика
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koloideal&theme=solarized_dark)
+## Stats
 
-## Проекты
+<div align='center'>
 
-Здесь вы найдете мои проекты, связанные с Python:
+  [![codewars](https://www.codewars.com/users/kolo_idea/badges/large)](https://www.codewars.com/users/kolo_idea)
 
-[Grabeer](https://github.com/koloideal/grabeer) - Telegram бот для парсинга информации об участниках определённого чата
+</div>
 
-[Yloader](https://github.com/FlacSy/YLoaderBot) - Telegram бот для скачивания различного медиаконтента, подробнее с возможностями бота можно ознакомится в самом репозитории
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koloideal&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-[SpaceGame](https://github.com/koloideal/SpaceGame) - игра написанная на Python, является аналогом игры Space Invaders 1978 года
+<div align='center'>
 
-[WordMath](https://github.com/koloideal/WordMath) - скрипт, возвращающий числовой ответ данного строкового выражения
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koloideal&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
 
-## Связь
 
-Вы можете связаться со мной через следующие каналы:
+<div align='center'>
 
-- Telegram: <a href='https://t.me/kolo_id'>@kolo_id</a>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koloideal&theme=dark)
+  
+</div>
 
-<b>Не стесняйтесь обращаться, если у вас есть вопросы или предложения по сотрудничеству!</b>
+<div align='center'>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=koloideal&theme=onestar">
 
-## Благодарность
+</div>
 
-Спасибо за посещение моего профиля GitHub. Надеюсь, вы найдете здесь полезную информацию и проекты. Если у вас есть предложения или комментарии, не стесняйтесь связаться.
+
+## Projects
+
+Here you will find my Python related projects:
+
+[Grabeer](https://github.com/koloideal/grabeer) - Telegram bot for parsing information about the participants of a certain chat
+
+[Yloader](https://github.com/FlacSy/YLoaderBot) - Telegram bot for downloading various media content, more information about the capabilities of the bot can be found in the repository itself
+
+[SpaceGame](https://github.com/koloideal/SpaceGame) - The game, written in Python, is an analogue of the 1978 Space Invaders game
+
+[WordMath](https://github.com/koloideal/WordMath) - A script that returns the numeric response of a given string expression
+
+[ParsKuf](https://github.com/koloideal/ParsKuf) - Kufar parser written in Python
+
+## Let's Connect
+
+Feel free to write to me:
+
+- [🖇️ Telegram](https://t.me/kolo_id)
+- [📧 Email](sabatt148@gmail.com)
+
+Do not hesitate to contact us if you have any questions or suggestions!
+
+> Your suggestions and comments are always welcome!
