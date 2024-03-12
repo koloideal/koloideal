@@ -85,8 +85,8 @@ Here you will find my Python related projects:
 
 Feel free to write to me:
 
-- [🖇️ Telegram](https://t.me/kolo_id)
-- [📧 Email](sabatt148@gmail.com)
+- <a href="https://t.me/kolo_id>🖇️ Telegram</a>
+- <a href="mailto:sabatt148@gmail.com">📧 Email</a>
 
 Do not hesitate to contact us if you have any questions or suggestions!
 
