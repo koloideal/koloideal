@@ -71,7 +71,7 @@ Here you will find my Python related projects:
 
 [Grabeer](https://github.com/koloideal/grabeer) - Telegram bot for parsing information about the participants of a certain chat
 
-[Yloader](https://github.com/FlacSy/YLoaderBot) - Telegram bot for downloading various media content, more information about the capabilities of the bot can be found in the repository itself
+[Yloader](https://github.com/FlacSy/YLoaderBot) - Telegram bot for downloading various media content
 
 [SpaceGame](https://github.com/koloideal/SpaceGame) - The game, written in Python, is an analogue of the 1978 Space Invaders game
 
