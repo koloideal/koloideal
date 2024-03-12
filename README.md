@@ -79,6 +79,8 @@ Here you will find my Python related projects:
 
 [ParsKuf](https://github.com/koloideal/ParsKuf) - Kufar parser written in Python
 
+[Collector](https://github.com/koloideal/Collector) - Script that downloads the text of a track and its translation
+
 ## Let's Connect
 
 Feel free to write to me:
