@@ -5,10 +5,10 @@
 
 ## Experience
 
-- I am an ambitious Python developer.
-- I actively use Telebot and Aiogram to create bots in Telegram.
-- I am also familiar with the creation of parser/grabber scripts.
-- I create simple pygame games
+- I am ambitious Python developer.
+- I use Telebot and Aiogram to create bots in Telegram actively.
+- I also know the how to create parser/grabber scripts.
+- I create simple pygame games.
   
 ## Tech Stack
 <div align="center">
@@ -67,7 +67,7 @@
 
 ## Projects
 
-Here you will find my Python related projects:
+Here you will find my Python projects:
 
 [Grabeer](https://github.com/koloideal/grabeer) - Telegram bot for parsing information about the participants of a certain chat
 
