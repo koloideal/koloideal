@@ -5,7 +5,7 @@
 
 ## Experience
 
-- I am an aspiring Python developer.
+- I am an ambitious Python developer.
 - I actively use Telebot and Aiogram to create bots in Telegram.
 - I am also familiar with the creation of parser/grabber scripts.
 - I create simple pygame games
