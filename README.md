@@ -6,6 +6,7 @@
 ## Experience
 
 - I am an ambitious Python developer.
+- I also create web applications on Flask, Django and Quart
 - I use Telebot and Aiogram to create bots in Telegram actively.
 - I also know the how to create parser/grabber scripts.
 - I create simple pygame games.
@@ -80,6 +81,10 @@ Here you will find my Python projects:
 [ParsKuf](https://github.com/koloideal/ParsKuf) - Kufar parser written in Python
 
 [Collector](https://github.com/koloideal/Collector) - Script that downloads the text of a track and its translation
+
+[AnonMessage](https://github.com/koloideal/AnonMessage) - Web application based on Quart and using Telethon
+
+[EnDeCoder](https://github.com/koloideal/EnDeCoder) - Script that encrypts the transmitted text
 
 ## Let's Connect
 
