@@ -86,6 +86,8 @@ Here you will find my Python projects:
 
 [EnDeCoder](https://github.com/koloideal/EnDeCoder) - Script that encrypts the transmitted text
 
+[CurvesApproximator](https://github.com/koloideal/CurvesApproximator) - script that approximates the passed polyline
+
 ## Let's Connect
 
 Feel free to write to me:
