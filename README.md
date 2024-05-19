@@ -88,6 +88,8 @@ Here you will find my Python projects:
 
 [CurvesApproximator](https://github.com/koloideal/CurvesApproximator) - script that approximates the passed polyline
 
+[Picker](https://github.com/koloideal/Picker) - Python grabber bot using the Telethon library to automatically collect information in Telegram
+
 ## Let's Connect
 
 Feel free to write to me:
