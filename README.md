@@ -34,7 +34,7 @@
 
 <div align='center'>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=koloideal)]
+  [![GitHub Streak](https://streak-stats.demolab.com?user=koloideal&theme=dark&border_radius=5.5)](https://git.io/streak-stats)
   
 </div>
 
