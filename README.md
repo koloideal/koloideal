@@ -34,7 +34,7 @@
 
 <div align='center'>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koloideal&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   
 </div>
 
