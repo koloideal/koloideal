@@ -38,16 +38,6 @@
   
 </div>
 
-
-## Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koloideal&repo=argenta&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/koloideal/argenta) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koloideal&repo=picker&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/koloideal/picker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koloideal&repo=secondme&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/koloideal/secondme) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koloideal&repo=CurvesApproximator&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/koloideal/CurvesApproximator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koloideal&repo=SubProcessBot&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/koloideal/SubProcessBot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koloideal&repo=GetNews&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/koloideal/GetNews)
-
-
 ## Let's Connect
 
 Feel free to write to me:
